@@ -22,8 +22,8 @@ Aqui você encontrará anotações, resumos e exercícios relacionados aos conte
 - [x] IA [1] - Vamos começar
 - [x] IA [1] - Aula 1
 - [x] IA [1] - Aula 2
-- [ ] IA [1] - Aula 3
-- [ ] IA [1] - Aula 4
+- [x] IA [1] - Aula 3
+- [x] IA [1] - Aula 4
 - [ ] IA [1] - Aula 5
 - [ ] IA [1] - Aula 6
 - [ ] IA [1] - Aula 7
