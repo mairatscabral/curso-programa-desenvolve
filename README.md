@@ -24,13 +24,13 @@ Aqui você encontrará anotações, resumos e exercícios relacionados aos conte
 - [x] IA [1] - Aula 2
 - [x] IA [1] - Aula 3
 - [x] IA [1] - Aula 4
-- [ ] IA [1] - Aula 5
-- [ ] IA [1] - Aula 6
-- [ ] IA [1] - Aula 7
-- [ ] IA [1] - Aula 8
-- [ ] IA [1] - Aula 9
-- [ ] IA [1] - Aula 10
-- [ ] IA [1] - Aula 11
+- [x] IA [1] - Aula 5
+- [x] IA [1] - Aula 6
+- [x] IA [1] - Aula 7
+- [x] IA [1] - Aula 8
+- [x] IA [1] - Aula 9
+- [x] IA [1] - Aula 10
+- [x] IA [1] - Aula 11
 
 ### Módulo 2 - Engenharia de Prompt
 - [ ] IA [2] - Aula 1
