@@ -29,6 +29,8 @@ O curso irá focar mais na parte do generative AI
 - chatboots tipo **chatgpt**
 - **assistentes virtuais** (siri, google assistente, meta AI, alexa) geralmete trabalham com linguagem natural
 - **semafaros inteligentes**
+- inteligencia artifical em bancos
+- inteligencia artificial aplicada na área da saude
 
 ### exemplo de como os computadores aprendem
 
@@ -42,7 +44,39 @@ existem 3 tipos de aprendizado: supervisonado, nao supervisonado e por reforço
 
 ![alt text](image-2.png)
 
--**aprendizado supervisonado** quando você acompanha o computador no aprendizado dele 
+-**aprendizado supervisonado** quando você acompanha o computador no aprendizado dele, é um trabalho manual e tem que marcar exatamente o que você quer que a ia aprenda 
 
-exemplo: para que o computador reconheça o que é um percevejo você precisa ajudar o computador a entender sobre o que ele deve aprender  
+exemplo: para que o computador reconheça o que é um percevejo você precisa ajudar o computador a entender sobre o que ele deve aprender fazendo uma marcação destancando a imagem por exemplo e você tem que fazer isso diversas vezes para que o computador aprenda a reconhecer.
+
 ![alt text](image-3.png)
+
+**nao supervisonado** faz a classificaçao de objetos
+
+exemplo das frutas
+
+![alt text](image-4.png)
+
+o algoritmo de aprendizado não supervisionado consegue reconhecer padroes diferentes, observa varias coisas misturadas e consegue separar eles atraves da classificação, analisando cor, tamanho, idade.
+
+existe a classificaçao e o agrupamento (clustering)
+
+![alt text](image-5.png)
+![alt text](image-6.png)
+
+**aprendizado por reforço** quando voce ensina e da pontos quando ela aprende e pune quando ela nao aprende
+
+![alt text](image-7.png)
+
+![alt text](image-8.png)
+
+6 - repetir ate que uma respota otima seja encontrada
+
+### IA na saude 
+
+![alt text](image-9.png)
+
+![alt text](image-10.png) 
+![alt text](image-11.png)
+
+
+
