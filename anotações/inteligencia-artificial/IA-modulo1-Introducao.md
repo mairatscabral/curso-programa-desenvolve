@@ -78,5 +78,36 @@ existe a classificaçao e o agrupamento (clustering)
 ![alt text](image-10.png) 
 ![alt text](image-11.png)
 
+### apps para utilizar inteligencia artificial
+
+- google chrome (atraves do modo pesquisa por voz, imagem ou texto)
+- chatgpt (openAI) da para falar com o chatgpt por texto, audio, pedir para ele pesquisar na internet dentre outros.
+    - muito bom para responder perguntas
+- google gemini
+    - ao instalar o gemini ele da opçoes de instalar IAs especificas que podem funcionar melhor para determinados cenarios como por exemplo a gemini + flash
+    - muito bom para trabalhar com imagens
+    - possui o notbook gemini que gera audios bons
+- microsoft copilot
+- grok (inteligencia artificial do x (twitter))
+    - bom para pesquisas mais aprofundadas exemplo: dados de empresa de agronegocio em londrina ele traz os resultados nem detalhados e organizados
+- perplexity
+    - bom para pesquisas mais aprofundadas
+- deepseek
+    - recusos avançados do chatgpt so que de maneira gratuita
+    - ainda nao possui o recurso de conversar por voz
+- claude AI (empresa de ex funcionarios do chatgpt)
+
+>**qualquer inteligencia artifical pode comenter erros e alucinar sobre informações**
+
+>**uma boa pratica é nao misturar os assuntos para nao mudar o contexto para que a IA nao se perca**
+
+### melhorando suas buscas na IA
+
+- seja especifico nas suas perguntas e faça perguntas detalhadas  
+ao inves de perguntar: me fale sobre trabalho explique detalhadamente o que você quer saber, como por exemplo: quais trabalhos posso realizar de casa usando meu celular
+
+
+
+
 
 
